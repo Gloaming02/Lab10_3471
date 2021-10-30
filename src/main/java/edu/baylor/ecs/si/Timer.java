@@ -5,8 +5,6 @@ import java.io.InputStream;
 import java.util.logging.LogManager;
 import java.util.logging.Logger;
 
-import edu.baylor.ecs.csi3471.lab10.zhengyanhu.part2.Printer;
-import edu.baylor.ecs.csi3471.lab10.zhengyanhu.part2.Threads;
 
 public class Timer {
 	
